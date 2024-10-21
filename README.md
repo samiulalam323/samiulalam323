@@ -16,7 +16,7 @@ Skills: HTML / CSS / C / C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiulalam323)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/samiulalam323)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulalam323&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=samiulalam323)  
+![GitHub metrics](https://metrics.lecoq.io/samiulalam323)  
 
