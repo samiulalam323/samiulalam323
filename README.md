@@ -9,6 +9,10 @@
 <p align="left">
 <a href="https://twitter.com/samiulalam323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samiulalam323" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/samiulalam323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiulalam323" height="40" width="50" /></a>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samiulalam323) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samiulalam323)
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
