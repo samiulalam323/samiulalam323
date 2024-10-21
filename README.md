@@ -1,26 +1,21 @@
-## Hi 👋, I'm Samiul Alam
-#### Web Developer
+<h1 align="center">Hi 👋, I'm Samiul Alam</h1>
+<h3 align="center">Web Developer</h3>
 
-As a passionate web developer and computer programmer, I thrive on turning complex problems into elegant, user-friendly solutions. With a strong foundation in HTML, CSS, C and C++.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulalam323&label=Profile%20views&color=0e75b6&style=flat" alt="samiulalam323" /> </p>
 
-Skills: HTML / CSS / C / C++
+- 📫 How to reach me **samiulalam323@gmail.com**
 
-- 📫 How to reach me: samiulalam323@gmail.com 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/samiulalam323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samiulalam323" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samiulalam323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiulalam323" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-[<img src='[https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-675821.png?f=webp&w=512]' alt='github' height='40'>](https://github.com/samiulalam323)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samiulalam323/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/samiulalam323)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulalam323&show_icons=true&locale=en&layout=compact" alt="samiulalam323" /></p>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiulalam323&show_icons=true&locale=en" alt="samiulalam323" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samiulalam323)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiulalam323)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulalam323&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/samiulalam323)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiulalam323&" alt="samiulalam323" /></p>
