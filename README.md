@@ -8,6 +8,7 @@
 
  <p align="center"> <img src="https://visitcount.itsvg.in/api?id=asif&icon=0&color=0" alt="samiulalam323" /> </p>
 
+<p align="left">As a passionate web developer and computer programmer, I thrive on turning complex problems into elegant, user-friendly solutions. With a strong foundation in HTML, CSS, C and C++.</p>
 
 - 📫 How to reach me **samiulalam323@gmail.com**
 
@@ -31,6 +32,6 @@
 </p>
 
 <h4 align="left">GitHub Stats:</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulalam323&show_icons=true&locale=en&layout=compact" alt="samiulalam323" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulalam323&show_icons=true&locale=en&layout=compact" alt="samiulalam323" /></p>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiulalam323&show_icons=true&locale=en" alt="samiulalam323" /></p>
