@@ -33,4 +33,4 @@
 <h4 align="left">GitHub Stats:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulalam323&show_icons=true&locale=en&layout=compact" alt="samiulalam323" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=samiulalam323&show_icons=true&locale=en" alt="samiulalam323" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiulalam323&show_icons=true&locale=en" alt="samiulalam323" /></p>
