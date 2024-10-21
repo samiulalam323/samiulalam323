@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samiul Alam</h1>
-<h3 align="center">Web Developer</h3>
+<h1>Hi 👋, I'm Samiul Alam</h1>
+<h3>Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulalam323&label=Profile%20views&color=0e75b6&style=flat" alt="samiulalam323" /> </p>
 
