@@ -8,7 +8,7 @@ Skills: HTML / CSS / C / C++
 - 📫 How to reach me: samiulalam323@gmail.com 
 
 
-[<img src='[https://www.svgrepo.com/show/475654/github-color.svg]' alt='github' height='40'>](https://github.com/samiulalam323)
+[<img src='[https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-675821.png?f=webp&w=512]' alt='github' height='40'>](https://github.com/samiulalam323)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samiulalam323/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/samiulalam323)  
 
