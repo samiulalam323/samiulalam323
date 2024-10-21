@@ -9,7 +9,7 @@
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 
-<a href="https://linkedin.com/in/samiulalam323" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="samiulalam323" height="40" width="150" /></a> <a href="https://twitter.com/samiulalam323" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="samiulalam323" height="40" width="70" style="margin-left: 100;" /></a>
+<a href="https://linkedin.com/in/samiulalam323" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="samiulalam323" height="40" width="150" /></a> <a href="https://twitter.com/samiulalam323" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="samiulalam323" height="40" width="70" style="border-radius: 10px;" /></a>
 
 <a href="https://wa.me/+8801522109475" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" alt="samiulalam323" height="40" width="150" /></a> <a href="mailto: samiulalam323@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samiulalam323" height="40" width="150" style="margin-left: 100;" /></a>
 
