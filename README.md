@@ -1,7 +1,5 @@
-(https://www.linkedin.com/mwlite/profile/me/add/background?trk=profile)
-### Hi there 👋, I'm Samiul Alam
+## Hi there 👋, I'm Samiul Alam
 #### Web Developer
-![Web Developer]
 
 As a passionate web developer and computer programmer, I thrive on turning complex problems into elegant, user-friendly solutions. With a strong foundation in HTML, CSS, C and C++.
 
