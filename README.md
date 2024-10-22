@@ -28,6 +28,7 @@
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="60" height="60"/> </a>
 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://en.m.wikipedia.org/wiki/File:Codeblocks_logo.png" alt="html5" width="70" height="70"/> </a>
 
 </p>
 
