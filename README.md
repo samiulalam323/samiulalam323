@@ -14,15 +14,6 @@
 
 - 📫 How to reach me **samiulalam323@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/samiulalam323" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="samiulalam323" height="40" width="150" /></a> <a href="https://twitter.com/samiulalam323" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="samiulalam323" height="40" width="70" style="border-radius: 10px;" /></a>
-
-<a href="https://wa.me/+8801522109475" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" alt="samiulalam323" height="40" width="150" /></a> <a href="mailto: samiulalam323@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samiulalam323" height="40" width="150" /></a>
-
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p>
 
@@ -31,6 +22,23 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="60" height="60"/> </a>    <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer" style="margin-top: 50px;"> <img src="https://img.icons8.com/color/200/code-blocks.png" alt="Codeblocks" width="70" height="70"/> </a>
 
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/samiulalam323"><img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="40" alt="linkedin logo" /></a>
+  <a href="mailto:samiulalam323@gmail.com">
+    <img
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      height="40" alt="gmail logo" />
+  </a>
+  <a href="https://wa.me/+8801522109475">
+    <img
+      src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"
+      height="40" alt="whatsapp logo" />
+  </a>
+</div>
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
