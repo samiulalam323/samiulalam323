@@ -6,7 +6,9 @@
 
 <h2 align="center">Web Developer || Computer Programmer</h2>
 
- <p align="center"> <img src="https://visitcount.itsvg.in/api?id=asif&icon=0&color=0" alt="samiulalam323" /> </p>
+ <p align="center"> <img
+    src="https://komarev.com/ghpvc/?username=sazidulalam47&label=Profile%20views&color=0e75b6&style=flat"
+    alt="samiulalam323" /> </p>
 
 <p align="left">As a passionate web developer and computer programmer, I thrive on turning complex problems into elegant, user-friendly solutions. With a strong foundation in HTML, CSS, C and C++.</p>
 
